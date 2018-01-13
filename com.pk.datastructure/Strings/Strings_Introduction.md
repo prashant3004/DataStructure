@@ -1,2 +1,2 @@
-# This is an <String Introduction> tag 
+# String Introduction 
 
